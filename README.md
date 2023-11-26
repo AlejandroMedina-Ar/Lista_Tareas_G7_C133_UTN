@@ -1,1 +1,1 @@
-# Trabajo Integrador, App Lista de Tareas. Curso Desarrollador en React JS - UTN
+# Trabajo Integrador, App Lista de Tareas. Curso React JS - UTN
